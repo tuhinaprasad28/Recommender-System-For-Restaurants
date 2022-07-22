@@ -13,7 +13,7 @@ choice was unappealing.
 
 The algorithm being used is collaborative filtering.
 
-Collaborative filtering is of 2 types
+Collaborative filtering is of 2 types:
 
 1.) Item-Item Collaborative Filtering
 
